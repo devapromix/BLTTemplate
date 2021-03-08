@@ -1,0 +1,2 @@
+# BLTTemplate
+Template for BearLibTerminal
